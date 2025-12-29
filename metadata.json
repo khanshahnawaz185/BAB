@@ -1,0 +1,5 @@
+{
+  "name": "SmartDraft - AI Email Assistant",
+  "description": "An intelligent Outlook add-in that helps you compose professional email responses quickly and efficiently using AI. It provides security analysis, sentiment analysis, and generates multiple customizable response suggestions based on various tones and user instructions.",
+  "requestFramePermissions": []
+}
